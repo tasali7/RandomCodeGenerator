@@ -1,0 +1,15 @@
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\bin\Debug\net7.0\CodeGeneratorApp.exe
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\bin\Debug\net7.0\CodeGeneratorApp.deps.json
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\bin\Debug\net7.0\CodeGeneratorApp.runtimeconfig.json
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\bin\Debug\net7.0\CodeGeneratorApp.dll
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\bin\Debug\net7.0\CodeGeneratorApp.pdb
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\CodeGeneratorApp.csproj.AssemblyReference.cache
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\CodeGeneratorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\CodeGeneratorApp.AssemblyInfoInputs.cache
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\CodeGeneratorApp.AssemblyInfo.cs
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\CodeGeneratorApp.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\CodeGeneratorApp.dll
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\refint\CodeGeneratorApp.dll
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\CodeGeneratorApp.pdb
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\CodeGeneratorApp.genruntimeconfig.cache
+C:\Users\Ali\Documents\GitHub\CodeGeneratorApp\CodeGeneratorApp\obj\Debug\net7.0\ref\CodeGeneratorApp.dll
